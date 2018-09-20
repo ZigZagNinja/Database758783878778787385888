@@ -1,0 +1,465 @@
+{
+	"Leute": [
+		{
+			"Name": "Baaß, Jonathan",
+			"Geburtstag": "",
+			"Wohnort": "",
+			"Stärken": "",
+			"Schwächen": "",
+			"Wertung": "",
+			"Bild": "/Database/Bilder/.jpg"
+		},
+		{
+			"Name": "Barry, Eamonn" ,
+			"Geburtstag": "???" ,
+			"Wohnort": "Hong Kong, China" ,
+			"Stärken": ["Humor", "Sozialkompetenz"] ,
+			"Schwächen": ["akademische Herausforderungen"] ,
+			"Wertung": "534",
+			"Bild": "/Database/Bilder/EamonnBarry.jpg"
+		},
+		{
+			"Name": "Beckman, Justus Hugo Klaus",
+			"Geburtstag": "???",
+			"Wohnort": "Volksdorf, Hamburg. Deutschland",
+			"Stärken": "akademische Herausforderungen",
+			"Schwächen": "???",
+			"Wertung": "674",
+			"Bild": "/Database/Bilder/JustusBeckman.jpg"
+		},
+		{
+			"Name": "Bones, Clara Maresa",
+			"Geburtstag": "21.07.2003",
+			"Wohnort": "Saseler Weg 9, Hamburg, Deutschland",
+			"Stärken": ["???"],
+			"Schwächen": ["???"],
+			"Wertung": "364",
+			"Bild": "/Database/Bilder/ClaraBones.jpg"
+		},
+		{
+			"Name": "Boysen, Nico",
+			"Geburtstag": "15.05.2002",
+			"Wohnort": "Buchenring 48, Hamburg, Deutschland",
+			"Stärken": ["Humor", "Sozialkompetenz"],
+			"Schwächen": ["akademische Herausforderungen"],
+			"Wertung": "470",
+			"Bild": "/Database/Bilder/NicoBoysen.jpg"
+		},
+		{
+			"Name": "Brügmann, Nathalie Stella" ,
+			"Geburtstag": "24.10.2003" ,
+			"Wohnort": "Heidloge 23, Hamburg, Deutschland" ,
+			"Stärken": ["???"] ,
+			"Schwächen": ["???"] ,
+			"Wertung": "273",
+			"Bild": "/Database/Bilder/NathalieBrügmann.jpg"
+		},
+		{
+			"Name": "Davidson, Liam",
+			"Geburtstag": "25.08.2002",
+			"Wohnort": "Künnekestraße 14, Hamburg, Deutschland",
+			"Stärken": "Sozialkompetenz",
+			"Schwächen": "Deutsch, akademische Herausforderungen",
+			"Wertung": "330",
+			"Bild": "/Database/Bilder/LiamDavidson.jpg"
+		},
+		{
+			"Name": "Draheim, Mats" ,
+			"Geburtstag": "30.09.2003" ,
+			"Wohnort": "Birkenredder 46a, Hamburg, Deutschland" ,
+			"Stärken": ["Sport"] ,
+			"Schwächen": ["akademische Herausforderungen"] ,
+			"Wertung": "323",
+			"Bild": "/Database/Bilder/MatsDraheim.jpg"
+		},
+		{
+			"Name": "Dächer, Nils" ,
+			"Geburtstag": "???" ,
+			"Wohnort": "Hamburg, Deutschland" ,
+			"Stärken": ["???"] ,
+			"Schwächen": ["???"] ,
+			"Wertung": "443",
+			"Bild": "/Database/Bilder/NilsDächer.jpg"
+		},
+		{
+			"Name": "Fischbach, Jakob Frederik" ,
+			"Geburtstag": "25.02.2003" ,
+			"Wohnort": "Vörn Barkholt 42, Hamburg, Deutschland" ,
+			"Stärken": ["Sprachen"] ,
+			"Schwächen": ["Sozialkompetenz"] ,
+			"Wertung": "623",
+			"Bild": "/Database/Bilder/JakobFischbach.jpg"
+		},
+		{
+			"Name": "Goerke, Isabel" ,
+			"Geburtstag": "19.02.2003" ,
+			"Wohnort": "Immenschur 66, Hamburg, Deutschland" ,
+			"Stärken": [""] ,
+			"Schwächen": [""] ,
+			"Wertung": "611",
+			"Bild": "/Database/Bilder/IsabelGoerke.jpg"
+		},
+		{
+			"Name": "Hafner, Hugo",
+			"Geburtstag": "02.01.2003",
+			"Wohnort": "London, England",
+			"Stärken": "programmieren, moderne Technik, akademische Herausforderungen, Finanzen, Mode",
+			"Schwächen": "Sport",
+			"Wertung": "912",
+			"Bild": "/Database/Bilder/HugoHafner.jpg"
+		},
+		{
+			"Name": "Hausser. Julius",
+			"Geburtstag": "???",
+			"Wohnort": "Weidenkamp 2, Hamburg, Deutschland",
+			"Stärken": "???",
+			"Schwächen": "akademische Herausforderungen insbesondere Mathematik",
+			"Wertung": "134",
+			"Bild": "/Database/Bilder/JuliusHausser.jpg"
+		},
+		{
+			"Name": "Helwig, Carl Leonard" ,
+			"Geburtstag": "1.05.2003" ,
+			"Wohnort": "Rögenrund 34a, Hamburg, Deutschland" ,
+			"Stärken": ["Sport"] ,
+			"Schwächen": ["akademische Herausforderungen"] ,
+			"Wertung": "289",
+			"Bild": "/Database/Bilder/LeonardHelwig.jpg"
+		},
+		{
+			"Name": "Hertzog, Emma Katharine",
+			"Geburtstag": "27.04.2003",
+			"Wohnort": "Claus-Ferck-Straße 3, Hamburg, Deutschland",
+			"Stärken": "Schreiben von Texten etc.",
+			"Schwächen": "Naturwissenschaften",
+			"Wertung": "505",
+			"Bild": "/Database/Bilder/EmmaHertzog.jpg"
+		},
+		{
+			"Name": "Hesse, Daniel",
+			"Geburtstag": "???",
+			"Wohnort": "Deutschland",
+			"Stärken": "Sport",
+			"Schwächen": "???",
+			"Wertung": "435",
+			"Bild": "/Database/Bilder/DanielHesse.jpg"
+		},
+		{
+			"Name": "Hildebrand, Lena Marie",
+			"Geburtstag": "03.02.2003",
+			"Wohnort": "Tunnkoppelstieg 18, Hamburg, Deutschland",
+			"Stärken": "akademisch stark",
+			"Schwächen": "Sport",
+			"Wertung": "634",
+			"Bild": "/Database/Bilder/LenaHildebrand.jpg"
+		},
+		{
+			"Name": "Hoefer, Emilia Augustina",
+			"Geburtstag": "21.10.2003",
+			"Wohnort": "Claus-Ferck-Straße 3, Hamburg, Deutschland",
+			"Stärken": "???",
+			"Schwächen": "???",
+			"Wertung": "289",
+			"Bild": "/Database/Bilder/EmiliaHoefer.jpg"
+		},
+		{
+			"Name": "Jacobsen, Mark",
+			"Geburtstag": "Nicht Freigegeben",
+			"Wohnort": "Nicht Freigegeben",
+			"Stärken": "Nicht Freigegeben",
+			"Schwächen": "Nicht Freigegeben",
+			"Wertung": "Nicht Freigegeben",
+			"Bild": "/Database/Bilder/MarkJacobsen.jpg"
+		},
+		{
+			"Name": "Junge, Timon",
+			"Geburtstag": "???",
+			"Wohnort": "München, Deutschland",
+			"Stärken": "Sport",
+			"Schwächen": "akademische Herausforderungen",
+			"Wertung": "279",
+			"Bild": "/Database/Bilder/TimonJunge.jpg"
+		},
+		{
+			"Name": "Karolyi, Bence",
+			"Geburtstag": "???",
+			"Wohnort": "Budapest, Ungarn",
+			"Stärken": "Sozialkompetenz, Physik, Astronomie, Sport",
+			"Schwächen": "Irratinonalität",
+			"Wertung": "745",
+			"Bild": "/Database/Bilder/BenceKarolyi.jpg"
+		},
+		{
+			"Name": "Kruse, Moritz",
+			"Geburtstag": "18.06.2003",
+			"Wohnort": "Groten Hoff 3, Hamburg. Deutschland",
+			"Stärken": "Torwart(Fußball)",
+			"Schwächen": "???",
+			"Wertung": "584",
+			"Bild": "/Database/Bilder/MoritzKruse.jpg"
+		},
+		{
+			"Name": "Köpcke, Leon Francesco",
+			"Geburtstag": "18.01.2001",
+			"Wohnort": "Volksdorfer Damm 2a, Hamburg, Deutschland",
+			"Stärken": "physisches Durchhaltevermögen, Sport, Deutsch",
+			"Schwächen": "akademische Herausforderungen, insbesondere Naturwissenschaften",
+			"Wertung": "436",
+			"Bild": "/Database/Bilder/LeonKöpcke.jpg"
+		},
+		{
+			"Name": "Köpcke, Linus",
+			"Geburtstag": "21.07.2003",
+			"Wohnort": "Volksdorfer Damm 2a, Hamburg, Deutschland",
+			"Stärken": "möglich(akademische Herausforderungen)",
+			"Schwächen": "Faulheit",
+			"Wertung": "611",
+			"Bild": "/Database/Bilder/LinusKöpcke.jpg"
+		},
+		{
+			"Name": "Martens, Carlotta",
+			"Geburtstag": "05.10.2002",
+			"Wohnort": "Am Eichenrehmen 26a, Hamburg, Deutschland",
+			"Stärken": "???",
+			"Schwächen": "akademische Herausforderungen, Sport",
+			"Wertung": "156",
+			"Bild": "/Database/Bilder/CarlottaMartens.jpg"
+		},
+		{
+			"Name": "Menck, Henry Julius",
+			"Geburtstag": "13.10.2002",
+			"Wohnort": "Gussau 125, Hamburg, Deutschland",
+			"Stärken": "???",
+			"Schwächen": "Schulfach(Chemie)",
+			"Wertung": "483",
+			"Bild": "/Database/Bilder/HenryMenck.jpg"
+		},
+		{
+			"Name": "Migge, Sophie",
+			"Geburtstag": "22.05.2003",
+			"Wohnort": "Beim Farenland 42b, Hamburg, Deutschland",
+			"Stärken": "???",
+			"Schwächen": "akademische Herausforderungen, Sport",
+			"Wertung": "137",
+			"Bild": "/Database/Bilder/SophieMigge.jpg"
+		},
+		{
+			"Name": "Nassua, Claudia",
+			"Geburtstag": "19.07.2002",
+			"Wohnort": "Max-Herz-Ring 209",
+			"Stärken": "akademische Herausforderungen, Kochen, Sport",
+			"Schwächen": "möglicherweise(programmieren, moderne Technik)",
+			"Wertung": "756",
+			"Bild": "/Database/Bilder/ClaudiaNassua.jpg"
+		},
+		{
+			"Name": "Penke, Thieß Maximillian",
+			"Geburtstag": "28.06.2003",
+			"Wohnort": "Holzreie 3a, Hamburg, Deutschland",
+			"Stärken": "Sport",
+			"Schwächen": "Sozialkompetenz, akademische Herausforderungen",
+			"Wertung": "234",
+			"Bild": "/Database/Bilder/ThießPenke.jpg"
+		},
+		{
+			"Name": "Nina, Petersen Thordis",
+			"Geburtstag": "26.01.2003",
+			"Wohnort": "Tunnkoppelstieg 20, Hamburg, Deutschland",
+			"Stärken": "???",
+			"Schwächen": "???",
+			"Wertung": "402",
+			"Bild": "/Database/Bilder/NinaPetersen.jpg"
+		},
+		{
+			"Name": "Poprcenovic, Dino",
+			"Geburtstag": "???",
+			"Wohnort": "Bosnien",
+			"Stärken": "Mathe, Physik, Sport, akademische Herausforderungen, Sprachen, moderne Technik",
+			"Schwächen": "???",
+			"Wertung": "895",
+			"Bild": "/Database/Bilder/DinoPoprcenovic.jpg"
+		},
+		{
+			"Name": "Quibeldey, Fynn Linus Pelle",
+			"Geburtstag": "01.10.2002",
+			"Wohnort": "Depenwisch 5",
+			"Stärken": "???",
+			"Schwächen": "???",
+			"Wertung": "450",
+			"Bild": "/Database/Bilder/FynnQuibeldey.jpg"
+		},
+		{
+			"Name": "Richter, Moritz Friedrich Wilhelm",
+			"Geburtstag": "05.12.2002",
+			"Wohnort": "Herzmoor 6a, Hamburg, Deutschland",
+			"Stärken": "akademische Herausforderungen, Geschichte, Physik",
+			"Schwächen": "Sport",
+			"Wertung": "681",
+			"Bild": "/Database/Bilder/MoritzRichter.jpg"
+		},
+		{
+			"Name": "Salahifar Sepehr",
+			"Geburtstag": "27.01.2002",
+			"Wohnort": "Buchnerweg 3, Hamburg, Deutschland",
+			"Stärken": "???",
+			"Schwächen": "akademische Herausforderungen, Sport",
+			"Wertung": "179",
+			"Bild": "/Database/Bilder/SepehrSalahifar.jpg"
+		},
+		{
+			"Name": "von Scheffer, Carlina Maxine",
+			"Geburtstag": "24.06.2003",
+			"Wohnort": "Rehblöcken 19, Hamburg. Volksdorf",
+			"Stärken": "???",
+			"Schwächen": "akademische Herausforderungen",
+			"Wertung": "233",
+			"Bild": "/Database/Bilder/CarlinaVonScheffer.jpg"
+		},
+		{
+			"Name": "Schossig, Johann Xaver",
+			"Geburtstag": "22.07.2002",
+			"Wohnort": "Meiendorfer Twiete 2, Hamburg, Deutschland",
+			"Stärken": "Sport",
+			"Schwächen": "akademische Herausforderungen",
+			"Wertung": "371",
+			"Bild": "/Database/Bilder/JohannSchossig.jpg"
+		},
+		{
+			"Name": "Schulz, Maja Sophie Elizabeth",
+			"Geburtstag": "05.11.2002",
+			"Wohnort": "Heinrich-Goebel-Straße 5, Hamburg, Deutschland",
+			"Stärken": "???",
+			"Schwächen": "???",
+			"Wertung": "333",
+			"Bild": "/Database/Bilder/MajaSchulz.jpg"
+		},
+		{
+			"Name": "von Selle, Philip Konstantin",
+			"Geburtstag": "14.08.2003",
+			"Wohnort": "Schemmannstraße 41, Hamburg, Deutschland",
+			"Stärken": "Tennis, Orientierungssinn",
+			"Schwächen": "akademische Herausforderungen",
+			"Wertung": "402",
+			"Bild": "/Database/Bilder/PhilipVonSelle.jpg"
+		},
+		{
+			"Name": "Shah, Neel",
+			"Geburtstag": "???",
+			"Wohnort": "Hong Kong, China",
+			"Stärken": "Finanzen, akademische Herausforderungen",
+			"Schwächen": "???",
+			"Wertung": "703",
+			"Bild": "/Database/Bilder/NeelShah.jpg"
+		},
+		{
+			"Name": "Schack, Phil Jarno",
+			"Geburtstag": "???",
+			"Wohnort": "Volksdorf, Hamburg, Deutschland",
+			"Stärken": "Englisch",
+			"Schwächen": "akademische Herausforderungen",
+			"Wertung": "89",
+			"Bild": "/Database/Bilder/PhilShak.jpg"
+		},
+		{
+			"Name": "Steevens, Jan",
+			"Geburtstag": "???",
+			"Wohnort": "Hamburg, Deutschland",
+			"Stärken": "???",
+			"Schwächen": "akademische Herausforderungen",
+			"Wertung": "356",
+			"Bild": "/Database/Bilder/JanSteevens.jpg"
+		},
+		{
+			"Name": "Stöcker, Noah",
+			"Geburtstag": "16.09.2002",
+			"Wohnort": "132 Blue Street, Hong Kong, China",
+			"Stärken": "???",
+			"Schwächen": "???",
+			"Wertung": "510",
+			"Bild": "/Database/Bilder/NoahStöcker.jpg"
+		},
+		{
+			"Name": "Toschka, Jasper Julius",
+			"Geburtstag": "18.11.2002",
+			"Wohnort": "Holthusenstrae 3, Hamburg, Deutschland",
+			"Stärken": "moderne Technik, möglich(akademische Herausforderungen)",
+			"Schwächen": "???",
+			"Wertung": "635",
+			"Bild": "/Database/Bilder/JasperToschka.jpg"
+		},
+		{
+			"Name": "Ullrich, Jesse Finn",
+			"Geburtstag": "22.12.2002",
+			"Wohnort": "Amelie-Sieveking-Weg 6, Hamburg, Deutschland",
+			"Stärken": "möglich(Sozialkompetenz)",
+			"Schwächen": "akademische Herausforderungen",
+			"Wertung": "289",
+			"Bild": "/Database/Bilder/JesseUllrich.jpg"
+		},
+		{
+			"Name": "Vietzke, Lennart",
+			"Geburtstag": "10.04.2003",
+			"Wohnort": "Im Berge 42, Hamburg, Deutschland",
+			"Stärken": "???",
+			"Schwächen": "möglich(Sozialkompetenz)",
+			"Wertung": "390",
+			"Bild": "/Database/Bilder/LennartVietzke.jpg"
+		},
+		{
+			"Name": "von Hacht, Luana Victoria",
+			"Geburtstag": "11.10.2002",
+			"Wohnort": "Im alten Dorfe 63c, Hamburg, Deutschland",
+			"Stärken": "???",
+			"Schwächen": "möglich(akademische Herausforderungen)",
+			"Wertung": "304",
+			"Bild": "/Database/Bilder/LuanaVonHacht.jpg"
+		},
+		{
+			"Name": "Wettstedt, Mika",
+			"Geburtstag": "04.10.2003",
+			"Wohnort": "Hamburg, Deutschland",
+			"Stärken": "möglich(Sozialkompetenz)",
+			"Schwächen": "???",
+			"Wertung": "436",
+			"Bild": "/Database/Bilder/MikaWettstedt.jpg"
+		},
+		{
+			"Name": "Wälken, Antonia Sophia",
+			"Geburtstag": "12.03.2003",
+			"Wohnort": "Im Berge 42, Hamburg, Deutschland",
+			"Stärken": "akademische Herausforderungen",
+			"Schwächen": "???",
+			"Wertung": "618",
+			"Bild": "/Database/Bilder/AntoniaWälken.jpg"
+		},
+		{
+			"Name": "Zimmer, Elizabeth Ida",
+			"Geburtstag": "02.02.2003",
+			"Wohnort": "Farenkoppel 10, Hamburg, Deutschland",
+			"Stärken": "???",
+			"Schwächen": "???",
+			"Wertung": "410",
+			"Bild": "/Database/Bilder/ElizabethZimmer.jpg"
+		},
+		{
+			"Name": "???, Konstantin",
+			"Geburtstag": "???",
+			"Wohnort": "Russland",
+			"Stärken": "Musik, akademische Herausforderungen",
+			"Schwächen": "Sozialkompetenz",
+			"Wertung": "768",
+			"Bild": "/Database/Bilder/Konstantin.jpg"
+		},
+		{
+			"Name": "",
+			"Geburtstag": "",
+			"Wohnort": "",
+			"Stärken": "",
+			"Schwächen": "",
+			"Wertung": "",
+			"Bild": "/Database/Bilder/.jpg"
+		}
+
+	]
+}
+				

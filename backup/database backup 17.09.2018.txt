@@ -1,0 +1,87 @@
+{
+	"Leute": [
+		{
+			"Name": "Barry, Eamonn" ,
+			"Geburtstag": "???" ,
+			"Wohnort": "Hong Kong, China" ,
+			"Stärken": ["Humor", "Sozialkompetenz"] ,
+			"Schwächen": ["akademische Herausforderungen"] ,
+			"Wertung": "534",
+			"Bild": "/Bilder/EamonnBarry.jpg"
+		},
+		{
+			"Name": "Bones, Clara Maresa",
+			"Geburtstag": "21.07.2003",
+			"Wohnort": "Saseler Weg 9, Hamburg, Deutschland",
+			"Stärken": ["???"],
+			"Schwächen": ["???"],
+			"Wertung": "364",
+			"Bild": "/Bilder/ClaraBones.jpg"
+		},
+		{
+			"Name": "Boysen, Nico",
+			"Geburtstag": "15.05.2002",
+			"Wohnort": "Buchenring 48, Hamburg, Deutschland",
+			"Stärken": ["Humor", "Sozialkompetenz"],
+			"Schwächen": ["akademische Herausforderungen"],
+			"Wertung": "470",
+			"Bild": "/Bilder/NicoBoysen.jpg"
+		},
+		{
+			"Name": "Brügmann, Nathalie, Stella" ,
+			"Geburtstag": "24.10.2003" ,
+			"Wohnort": "Heidloge 23, Hamburg, Deutschland" ,
+			"Stärken": ["???"] ,
+			"Schwächen": ["???"] ,
+			"Wertung": "273",
+			"Bild": "/Bilder/NathalieBrügmann.jpg"
+		},
+		{
+			"Name": "Draheim, Mats" ,
+			"Geburtstag": "30.09.2003" ,
+			"Wohnort": "Birkenredder 46a, Hamburg, Deutschland" ,
+			"Stärken": ["Sport"] ,
+			"Schwächen": ["akademische Herausforderungen"] ,
+			"Wertung": "323",
+			"Bild": "/Bilder/MatsDraheim.jpg"
+		},
+		{
+			"Name": "Niels Dächer" ,
+			"Geburtstag": "???" ,
+			"Wohnort": "Hamburg, Deutschland" ,
+			"Stärken": ["???"] ,
+			"Schwächen": ["???"] ,
+			"Wertung": "443",
+			"Bild": "/Bilder/NielsDächer.jpg"
+		},
+		{
+			"Name": "Fischbach, Jakob Frederik" ,
+			"Geburtstag": "25.02.2003" ,
+			"Wohnort": "Vörn Barkholt 42, Hamburg, Deutschland" ,
+			"Stärken": ["Sprachen"] ,
+			"Schwächen": ["Sozialkompetenz"] ,
+			"Wertung": "623",
+			"Bild": "/Bilder/JakobFischbach.jpg"
+		},
+		{
+			"Name": "Goerke, Isabel" ,
+			"Geburtstag": "19.02.2003" ,
+			"Wohnort": "Immenschur 66, Hamburg, Deutschland" ,
+			"Stärken": [""] ,
+			"Schwächen": [""] ,
+			"Wertung": "611",
+			"Bild": "/Bilder/IsabelGoerke.jpg"
+		},
+		{
+			"Name": "Helwig, Carl Leonard" ,
+			"Geburtstag": "1.05.2003" ,
+			"Wohnort": "Rögenrund 34a, Hamburg, Deutschland" ,
+			"Stärken": ["Sport"] ,
+			"Schwächen": ["akademische Herausforderungen"] ,
+			"Wertung": "289",
+			"Bild": "/Bilder/LeonardHelwig.jpg"
+		}
+
+	]
+}
+				
